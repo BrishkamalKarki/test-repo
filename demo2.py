@@ -1,1 +1,3 @@
-print("kjfalsdjfl;ajsd") 
+
+print(01011110000001)
+print(100011100101011110000001)
