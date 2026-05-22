@@ -11,4 +11,4 @@ def this():
 print("fafd")
     
 print("The exact valudsade of e is:",math.e)
-wansang = "night"
+wansang = "raaati"
